@@ -1,0 +1,26 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "Examples of Design Patterns",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "singleton",
+    "observer"
+  ],
+  "author": "MkkCreations",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "@types/readline-sync": "^1.4.4"
+  },
+  "dependencies": {
+    "@types/asciichart": "^1.5.6",
+    "asciichart": "^1.5.25",
+    "readline-sync": "^1.4.10"
+  }
+}
