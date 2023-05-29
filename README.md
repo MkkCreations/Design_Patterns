@@ -6,7 +6,7 @@
 ```shell
     npm install
 ```
-
+<hr>
 <h3>Singleton</h3>
 
 <p>To see the output accede to the Singleton directory and run: </p>
@@ -28,7 +28,7 @@
     [ 29/5/2023 21:10:08 ] : 987654321: Debit  | amount -500€
     [ 29/5/2023 21:10:08 ] : 987654321: Credit | amount  200€
 ```
-
+<hr>
 <h3>Observer</h3>
 
 <p>To see the output accede to the Observer directory and run: </p>
