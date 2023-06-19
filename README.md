@@ -63,3 +63,22 @@
        1.00 ┤                                       │ 
        0.00 ┤                                       ╰ 
 ```
+
+<h3>Proxy</h3>
+
+<p>To see the output accede to the Proxy directory and run: </p>
+
+```shell
+    npx ts-node index.ts
+```
+<p>See the output example: </p>
+
+```shell
+    User is not root
+    Executing command: ls
+    You are not allowed to execute << rm >> command
+    ------------------------------
+    User is root
+    Executing command: ls
+    Executing command: rm
+```
